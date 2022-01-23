@@ -1,0 +1,31 @@
+[
+    {
+        "title" :"เล่นกล้ามเเขน",
+        "title1" :"รวมท่าเล่นกล้ามเเขน",
+        "image" : "https://pbs.twimg.com/media/ExO3phLVkAAMVXS.jpg",
+        "detail" : "push up"
+    },
+    
+    
+    {
+        "title" :"เล่นกล้ามอก",
+        "title1" :"รวมท่าเล่นกล้ามอก",
+        "image" : "https://m.media-amazon.com/images/I/913W-FJwYDL.jpg",
+        "detail" :"squat"        
+    },
+    
+    {
+        "title" :"เล่นกล้ามท้อง",
+        "title1" :"รวมท่าเล่นกล้ามท้อง",
+        "image" : "https://pbs.twimg.com/media/EZMZVsqXkAIcUGL?format=jpg&name=large",
+        "detail" :"sit up"
+    },
+    {
+        "title" :"เล่นกล้ามขา",
+        "title1" :"รวมท่าเล่นกล้ามขา",
+        "image" : "https://m.media-amazon.com/images/I/913W-FJwYDL.jpg",
+        "detail" :"squat"        
+    }
+    
+    
+]
