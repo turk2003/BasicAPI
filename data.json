@@ -11,6 +11,14 @@
         "image" : "https://images-na.ssl-images-amazon.com/images/I/41nKLs1fMTL.jpg",
         "detail" :"pull up"    
     },
+    
+    {
+        "title" :"เล่นกล้ามอก",
+        "title1" :"รวมท่าเล่นกล้ามอก",
+        "image" : "https://m.media-amazon.com/images/I/913W-FJwYDL.jpg",
+        "detail" :"squat"        
+    },
+    
     {
         "title" :"เล่นกล้ามท้อง",
         "title1" :"รวมท่าเล่นกล้ามท้อง",
@@ -23,5 +31,6 @@
         "image" : "https://m.media-amazon.com/images/I/913W-FJwYDL.jpg",
         "detail" :"squat"        
     }
+    
     
 ]
