@@ -2,7 +2,7 @@
     {
         "title" :"เล่นกล้ามเเขน",
         "title1" :"รวมท่าเล่นกล้ามเเขน",
-        "image" : "https://raw.githubusercontent.com/UncleEngineer/BasicAPI/main/computer.jpg",
+        "image" : "https://raw.githubusercontent.com/turk2003/BasicAPI/main/arm.jpg",
         "detail" : "push up"
     },
     
@@ -10,13 +10,13 @@
     {
         "title" :"เล่นกล้ามท้อง",
         "title1" :"รวมท่าเล่นกล้ามท้อง",
-        "image" : "https://github.com/turk2003/BasicAPI/blob/main/5086106.jpg?raw=true",
+        "image" : "https://raw.githubusercontent.com/turk2003/BasicAPI/main/sixpack.jpeg",
         "detail" :"sit up"
     },
     {
         "title" :"เล่นกล้ามขา",
         "title1" :"รวมท่าเล่นกล้ามขา",
-        "image" : "https://github.com/turk2003/BasicAPI/blob/main/4609570.png?raw=true",
+        "image" : "https://raw.githubusercontent.com/turk2003/BasicAPI/main/913W-FJwYDL.jpg",
         "detail" :"squat"        
     }
     
